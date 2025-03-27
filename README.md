@@ -9,12 +9,27 @@ A robust system designed to authenticate individuals and record attendance using
 - Manage courses, units, venues, and attendance records through an intuitive interface.
 - Capture and store multiple images for accurate identification.
 
+## **Technologies Used**
+
+### Frontend:
+- **HTML** – Structure of the web pages  
+- **JavaScript** – Client-side interactivity  
+- **Bootstrap** – Frontend Framework
+
+### Backend:
+- **PHP** – Server-side scripting language  
+- **MySQL** – Database management system  
+
+### Additional Tools:
+- **Face-api.js** – Face recognition library  
+- **Fetch API/AJAX** – Handling asynchronous requests   
+
 ## **Team**
 - Christian Andrei T. Arzadon (Lead Developer)
 - Jann Gio Tabios (UI/UX Developer)
 - Fritzjerald L. Domingo (Documentation Lead)
 - Carl Dominic Doño (Team Leader)
-- 
+
 ## Project Structure
 
 ![projectstructure](https://github.com/user-attachments/assets/f051145e-3288-4dd1-9174-4906ea11790e)
