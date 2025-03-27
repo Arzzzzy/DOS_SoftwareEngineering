@@ -9,6 +9,12 @@ A robust system designed to authenticate individuals and record attendance using
 - Manage courses, units, venues, and attendance records through an intuitive interface.
 - Capture and store multiple images for accurate identification.
 
+## **Team**
+- Christian Andrei T. Arzadon (Lead Developer)
+- Jann Gio Tabios (UI/UX Developer)
+- Fritzjerald L. Domingo (Documentation Lead)
+- Carl Dominic Doño (Team Leader)
+- 
 ## Project Structure
 
 ![projectstructure](https://github.com/user-attachments/assets/f051145e-3288-4dd1-9174-4906ea11790e)
