@@ -23,7 +23,7 @@ A robust system designed to authenticate individuals and record attendance using
 ### Additional Tools:
 - **Face-api.js** – Face recognition library  
 - **Fetch API/AJAX** – Handling asynchronous requests
-- **SweetAlert** -  A customizable JavaScript library for beautiful, responsive alert boxes.
+- **SweetAlert2** -  A customizable JavaScript library for beautiful, responsive alert boxes.
 
 ## **Team**
 - Christian Andrei T. Arzadon (Lead Developer)
