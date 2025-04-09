@@ -32,7 +32,8 @@ A robust system designed to authenticate individuals and record attendance using
 - Carl Dominic Doño (Team Leader)
 
 ## Project Structure
-![projectstructure](https://github.com/user-attachments/assets/f051145e-3288-4dd1-9174-4906ea11790e)
+![image](https://github.com/user-attachments/assets/03eb27b9-77a6-4245-897c-cbd36fac2779)
+
 
 ## User Interface
 ![AttendifyLogin](https://github.com/user-attachments/assets/9e22603e-bcc8-4e8b-8f8f-f98109df7738)
